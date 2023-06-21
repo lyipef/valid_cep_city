@@ -1,4 +1,4 @@
-# Algoritmo de validação de CEP
+# Validação de CEP/Cidade
 
 Este código em Python implementa uma função chamada is_cep_valid que verifica se um CEP (Código de Endereçamento Postal) é válido. A função recebe uma lista de CEPs como parâmetro e retorna uma lista de resultados indicando se cada CEP é válido ou não, juntamente com o nome da cidade correspondente, se disponível.
 
